@@ -1,0 +1,14 @@
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\obj\Debug\net8.0\211Lab2Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\obj\Debug\net8.0\211Lab2Inheritence.AssemblyInfoInputs.cache
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\obj\Debug\net8.0\211Lab2Inheritence.AssemblyInfo.cs
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\obj\Debug\net8.0\211Lab2Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\bin\Debug\net8.0\211Lab2Inheritence.exe
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\bin\Debug\net8.0\211Lab2Inheritence.deps.json
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\bin\Debug\net8.0\211Lab2Inheritence.runtimeconfig.json
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\bin\Debug\net8.0\211Lab2Inheritence.dll
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\bin\Debug\net8.0\211Lab2Inheritence.pdb
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\obj\Debug\net8.0\211Lab2Inheritence.dll
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\obj\Debug\net8.0\refint\211Lab2Inheritence.dll
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\obj\Debug\net8.0\211Lab2Inheritence.pdb
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\obj\Debug\net8.0\211Lab2Inheritence.genruntimeconfig.cache
+C:\Users\amrin\Desktop\CPRG_211_F\211Lab2Inheritence\211Lab2Inheritence\obj\Debug\net8.0\ref\211Lab2Inheritence.dll
